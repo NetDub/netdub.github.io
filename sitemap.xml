@@ -3,26 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://192.168.0.38:1313/posts/about/</loc>
+    <loc>http://www.netdub.ie/posts/about/</loc>
     <lastmod>2020-02-14T11:53:07+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://192.168.0.38:1313/</loc>
+    <loc>http://www.netdub.ie/</loc>
     <lastmod>2020-02-14T11:53:07+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://192.168.0.38:1313/posts/</loc>
+    <loc>http://www.netdub.ie/posts/</loc>
     <lastmod>2020-02-14T11:53:07+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://192.168.0.38:1313/categories/</loc>
+    <loc>http://www.netdub.ie/categories/</loc>
   </url>
   
   <url>
-    <loc>http://192.168.0.38:1313/tags/</loc>
+    <loc>http://www.netdub.ie/tags/</loc>
   </url>
   
 </urlset>
