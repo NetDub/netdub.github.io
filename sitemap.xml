@@ -3,26 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://www.netdub.ie/posts/about/</loc>
+    <loc>https://www.netdub.ie/</loc>
+    <lastmod>2020-02-15T11:53:07+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.netdub.ie/posts/first_meetup/</loc>
+    <lastmod>2020-02-15T11:53:07+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.netdub.ie/posts/</loc>
+    <lastmod>2020-02-15T11:53:07+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.netdub.ie/posts/about/</loc>
     <lastmod>2020-02-14T11:53:07+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.netdub.ie/</loc>
-    <lastmod>2020-02-14T11:53:07+00:00</lastmod>
+    <loc>https://www.netdub.ie/categories/</loc>
   </url>
   
   <url>
-    <loc>http://www.netdub.ie/posts/</loc>
-    <lastmod>2020-02-14T11:53:07+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.netdub.ie/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>http://www.netdub.ie/tags/</loc>
+    <loc>https://www.netdub.ie/tags/</loc>
   </url>
   
 </urlset>
